@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "salary":20000,
+        "gender":"male",
+        "department":"maths",
+        
+        "userId": 101,
+        "name": "bhasa"
+       
+      },
+      {
+        "salary":20000,
+        "gender":"male",
+        "department":"science",
+        "userId": 102,
+        "name": "raghu"
+       
+      },
+      {
+        "salary":20000,
+         "gender":"male",
+        "department":"chemistry",
+        "userId": 103,
+        "name": "ravi"
+      },
+      {
+      "salary":20000,
+         "gender":"male",
+        "department":"chemistry",
+        "userId": 103,
+        "name": "ravi"
+      }
+    ]
+  }
